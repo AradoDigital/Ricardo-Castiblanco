@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cliente {
+	font-weight: bold;
+	color: #06C;
+	text-align: center;
+	padding-top: 10px;
+}
+.color1 {
+	background-color: #06C;
+}
+.h1blanco {
+	color: #FFF;
+	padding-top: 10px;
+}
+.h3blanco {
+	color: #FFF;
+	padding-top: 10px;
+}
+.parrafoblanco {
+	color: #FFF;
+}
+.celular1 {
+	color: #FFF;
+	padding-right: 15px;
+	padding-top: 10px;
+}
+body {
+      margin-left: 0px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+    }
+.pad01 {
+	padding-bottom: 5px;
+}
+.titulo01 {
+	font-family: 'Anton', sans-serif;
+	color:#06C;
+}
+.titulo02 {
+	font-family: 'Anton', sans-serif;
+	color:#fff;
+}
